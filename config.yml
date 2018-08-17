@@ -1,0 +1,6 @@
+IP: "127.0.0.1:3306"
+Database: "gps"
+User: "root"
+Password: "123"
+server: "1"
+errorMes: "§a当前导航点不在本服务器，请前往服务器:"
